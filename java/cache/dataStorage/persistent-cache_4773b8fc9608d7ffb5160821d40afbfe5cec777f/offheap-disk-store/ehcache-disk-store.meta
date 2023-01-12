@@ -1,0 +1,4 @@
+#Key and value types
+#Thu Jan 12 10:40:40 ART 2023
+keyType=java.lang.Integer
+valueType=demo.sequenceIterator.CollectionSerializable

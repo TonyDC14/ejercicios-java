@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: demo.SequenceIteratorTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.148 s <<< FAILURE! - in demo.SequenceIteratorTest
+sequenceIteratorSobreMultiplesSecuencias(demo.SequenceIteratorTest)  Time elapsed: 0.121 s  <<< ERROR!
+java.lang.NullPointerException
+	at demo.SequenceIteratorTest.sequenceIteratorSobreMultiplesSecuencias(SequenceIteratorTest.java:31)
+
